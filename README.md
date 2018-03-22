@@ -9,5 +9,5 @@ Example of running/walking animation.
 Small map, pvp with your friends or play alone with ragdoll archers.
 
 # Features
-- [ ] Single Player Survival
+- [ ] Single Player Survival  
 ``Work In Progress``

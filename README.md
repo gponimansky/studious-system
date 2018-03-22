@@ -8,4 +8,6 @@ Example of running/walking animation.
 # Description  
 Small map, pvp with your friends or play alone with ragdoll archers.
 
+# Features
+- [ ] Single Player Survival
 ``Work In Progress``

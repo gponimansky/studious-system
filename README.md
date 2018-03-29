@@ -13,7 +13,6 @@ Small map, pvp with your friends or play alone with ragdoll archers. Play alone 
 - [ ] Arcade Mode  
 - [ ] Multiplayer Survival  
 - [ ] Level Mode  
-- [ ] Different Maps and Archers
-
+- [ ] Different Maps and Archers  
 
 ``Work In Progress``

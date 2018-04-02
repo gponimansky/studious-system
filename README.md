@@ -16,3 +16,7 @@ Small map, pvp with your friends or play alone with ragdoll archers. Play alone 
 - [ ] Different Maps and Archers  
 
 ``Work In Progress``
+# TO BE ADDED
+- [ ] Shooting Mechanic.
+- [ ] Survival Score.
+- [ ] Store.

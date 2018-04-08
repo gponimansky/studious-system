@@ -25,7 +25,7 @@ public class CameraScript : MonoBehaviour
 
         if (Input.GetMouseButtonDown(1)) _lastPosition = Input.mousePosition;
         if (Input.GetAxis("Mouse ScrollWheel") > 0f)
-            cam.fieldOfView = (cam.fieldOfView < 10) ? 10 : --cam.fieldOfView;
+            cam.fieldOfView = (cam.fieldOfView < 20) ? 20 : --cam.fieldOfView;
         else if (Input.GetAxis("Mouse ScrollWheel") < 0f)
             cam.fieldOfView = (cam.fieldOfView > 60) ? 60 : ++cam.fieldOfView;
 
@@ -66,6 +66,6 @@ public class CameraScript : MonoBehaviour
         transform.position = new Vector3(transform.position.x, currentHeight, transform.position.z);
 
         // Always look at the target
-        transform.LookAt(target);
+        transform.LookAt(new Vector3(target.transform.position.x, target.transform.position.y + target.transform.localScale.y, target.transform.position.z));
     }
 }

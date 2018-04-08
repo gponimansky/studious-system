@@ -34,3 +34,7 @@ sysinfo.txt
 *.unitypackage
 *.meta
 /Assets/Standard Assets
+/Assets/Assets/Models/Mediaeval Archer
+/Assets/Assets/Models/Medieval Archer
+/Assets/Assets/Models/Medieval Arrow/Model
+/Assets/Assets/Models/Medieval Bow/Model

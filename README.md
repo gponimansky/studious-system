@@ -8,14 +8,14 @@ Example of running/walking animation in game demo.
 # Description  
 Small map, pvp with your friends or play alone with ragdoll archers. Play alone or with friend in different modes from **Story**, **Arcade** and **Survival**.
 
-# Features
+# Features to be Added
 - [ ] Single Player Survival  
 - [ ] Arcade Mode  
 - [ ] Multiplayer Survival  
 - [ ] Level Mode  
 - [ ] Different Maps and Archers  
 
-# TO BE ADDED
+# Mechanics to be Added
 - [ ] Shooting Mechanic
 - [ ] Survival Score
 - [ ] Store

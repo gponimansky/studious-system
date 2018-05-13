@@ -19,3 +19,6 @@ Small map, pvp with your friends or play alone with ragdoll archers. Play alone 
 - [ ] Shooting Mechanic
 - [ ] Survival Score
 - [ ] Store
+
+# Looking for Help
+Please e-mail me contact me through [Unity Connect](https://connect.unity.com/u/586d82c032b306001884c0a0) if you are interested. 

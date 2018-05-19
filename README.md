@@ -6,7 +6,12 @@ This is the base unity project involving ragdoll archers. Currently in the works
 Example of running/walking animation in game demo.
 
 # Description  
-Small map, pvp with your friends or play alone with ragdoll archers. Play alone or with friend in different modes from **Story**, **Arcade** and **Survival**.
+Small map, pvp with your friends or play alone with ragdoll archers. Play alone or with friend in different modes from **Story**, **Arcade** and **Survival**. 
+
+# Maps avaliable
+- [X] Forest
+- [X] Green Field
+- [X] Sand
 
 # Features to be Added
 - [ ] Single Player Survival  

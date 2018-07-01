@@ -1,5 +1,5 @@
  # Archer Game
-This is the base unity project involving ragdoll archers. Currently in the works with MG Games.  
+This is the base unity project involving ragdoll archers.
 
 ![In the Works](https://i.giphy.com/media/2A525RqZDVNlAL0fmj/giphy.webp)
 

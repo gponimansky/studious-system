@@ -1,7 +1,7 @@
  # Archer Game
 This is the base unity project involving ragdoll archers.
 
-![In the Works](https://media.giphy.com/media/2A525RqZDVNlAL0fmj/giphy.gif)
+![In the Works](https://media.giphy.com/media/2A525RqZDVNlAL0fmj/200w_d.gif)
 
 Example of running/walking animation in game demo.
 
